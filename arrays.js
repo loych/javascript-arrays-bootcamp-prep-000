@@ -9,10 +9,15 @@ function destructivelyAddElementToBeginningOfArray(){
 }
 
 
-function addElementToBeginningOfArray (){
+function addElementToEndOfArray (){
   
 }
 
-function destructivelyAddElementToBeginningOfArray(){
+function destructivelyAddElementToEndOfArray(){
 
 }
+
+function accessElementInArray(){
+  
+}
+function 
