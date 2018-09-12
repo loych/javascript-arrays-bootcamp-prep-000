@@ -7,3 +7,12 @@ function addElementToBeginningOfArray (){
 function destructivelyAddElementToBeginningOfArray(){
 
 }
+
+
+function addElementToBeginningOfArray (){
+  
+}
+
+function destructivelyAddElementToBeginningOfArray(){
+
+}
